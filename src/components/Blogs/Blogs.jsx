@@ -26,7 +26,7 @@ const Blogs = () => {
             </div>
             <div className="flex justify-between pt-2 text-slate-600">
               <p>April 24, 2022</p>
-              <p className="line-clamp-1"> By Dilshad</p>
+              <p className="line-clamp-1"> Net-Trix</p>
             </div>
             <div className="space-y-3 py-3">
               <h1 className="line-clamp-1 text-xl font-bold">
@@ -51,7 +51,7 @@ const Blogs = () => {
             </div>
             <div className="flex justify-between pt-2 text-slate-600">
               <p>Jan 3, 2023</p>
-              <p className="line-clamp-1"> By Akshay</p>
+              <p className="line-clamp-1"> Net-Trix</p>
             </div>
             <div className="space-y-3 py-3">
               <h1 className="line-clamp-1 text-xl font-bold">
@@ -76,7 +76,7 @@ const Blogs = () => {
             </div>
             <div className="flex justify-between pt-2 text-slate-600">
               <p>April 24, 2024</p>
-              <p className="line-clamp-1"> By Satya</p>
+              <p className="line-clamp-1"> Net-Trix</p>
             </div>
             <div className="space-y-3 py-3">
               <h1 className="line-clamp-1 text-xl font-bold">

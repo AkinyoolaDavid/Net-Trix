@@ -60,14 +60,15 @@ const Navbar = () => {
       className="relative z-20 border-b-[1px]  border-primary/50 bg-gradient-to-l from-violet-900 via-violet-800 to-violet-900 text-white shadow-lg"
     >
       <nav className="container  flex h-[70px] items-center justify-between py-2 ">
-        <div className="text-2xl text-white md:text-3xl ">
+      <img src="/src/assets/logo.png" alt="" />
+        {/* <div className="text-2xl text-white md:text-3xl ">
           <a href="/#home" className="">
-            COZ
+            NET
             <span className="inline-block font-bold text-primary dark:text-black">
-              WEB
+              TRIX
             </span>
           </a>
-        </div>
+        </div> */}
         <div className="hidden md:block">
           <ul className="flex items-center gap-10">
             <li className="cursor pointer group relative">
